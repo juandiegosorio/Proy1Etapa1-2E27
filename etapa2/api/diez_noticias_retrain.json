@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "Titulo": "Noticia real verificada por múltiples fuentes",
+            "Descripcion": "Información confirmada sobre...",
+            "Fecha": "2025-03-29"
+        },
+        {
+            "Titulo": "Artículo de opinión sobre política actual",
+            "Descripcion": "Un análisis profundo de...",
+            "Fecha": "2025-03-28"
+        },
+        {
+            "Titulo": "Comunicado oficial de la empresa XYZ",
+            "Descripcion": "La compañía informa sobre...",
+            "Fecha": "2025-03-27"
+        },
+        {
+            "Titulo": "Post viral con información engañosa",
+            "Descripcion": "Se comparte masivamente un contenido falso...",
+            "Fecha": "2025-03-26"
+        },
+        {
+            "Titulo": "Reportaje investigativo sobre corrupción",
+            "Descripcion": "Una exhaustiva investigación revela...",
+            "Fecha": "2025-03-25"
+        },
+        {
+            "Titulo": "Publicación satírica con noticias inventadas",
+            "Descripcion": "Un medio de humor publica una nota...",
+            "Fecha": "2025-03-24"
+        },
+        {
+            "Titulo": "Anuncio gubernamental sobre nuevos subsidios",
+            "Descripcion": "El gobierno nacional anuncia...",
+            "Fecha": "2025-03-23"
+        },
+        {
+            "Titulo": "Tweet con información falsa y manipulada",
+            "Descripcion": "Un usuario influyente difunde...",
+            "Fecha": "2025-03-22"
+        },
+        {
+            "Titulo": "Entrevista a experto en temas de salud",
+            "Descripcion": "Un reconocido médico explica...",
+            "Fecha": "2025-03-21"
+        },
+        {
+            "Titulo": "Cadena de mensajes con alerta falsa",
+            "Descripcion": "Se reenvía un mensaje alarmista...",
+            "Fecha": "2025-03-20"
+        },
+        {
+            "Titulo": "Artículo científico sobre avances tecnológicos",
+            "Descripcion": "Investigadores publican sus hallazgos sobre...",
+            "Fecha": "2025-03-19"
+        },
+        {
+            "Titulo": "Video manipulado para difamar a figura pública",
+            "Descripcion": "Circula un video alterado que...",
+            "Fecha": "2025-03-18"
+        }
+    ],
+    "labels": [0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+}
