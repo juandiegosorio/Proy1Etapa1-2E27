@@ -91,7 +91,7 @@ Una vez que la aplicación Streamlit esté corriendo en tu navegador, podrás in
 * **Predecir:** Ingresa el título, la descripción y la fecha de una noticia política para obtener una predicción sobre si es falsa o real, junto con una probabilidad. La aplicación enviará esta información a la API para obtener el resultado.
 
 * **Entrenar:**
-    * **Ingresar manualmente:** Completa los formularios con la información de al menos 5 noticias (título, descripción, fecha y etiqueta: 0 para Real, 1 para Fake). Haz clic en "Entrenar Modelo con Datos Manuales" para enviar estos datos a la API y reentrenar el modelo.
+    * **Ingresar manualmente:** Completa los formularios con la información de al menos 10 noticias (título, descripción, fecha y etiqueta: 0 para Real, 1 para Fake). Haz clic en "Entrenar Modelo con Datos Manuales" para enviar estos datos a la API y reentrenar el modelo.
     * **Subir archivo JSON:** Carga un archivo JSON con datos de entrenamiento en el formato `{"data": [{"Titulo": ..., "Descripcion": ..., "Fecha": ...}, ...], "labels": [0, 1, ...]}`. Haz clic en "Entrenar Modelo con Archivo" para enviar los datos a la API y reentrenar el modelo.
 
 **¡Importante!** Asegúrate de que la API esté corriendo en segundo plano antes de intentar usar la aplicación Streamlit, ya que la aplicación se comunica con la API para realizar las predicciones y el reentrenamiento.
