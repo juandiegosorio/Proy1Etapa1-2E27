@@ -32,7 +32,7 @@ Sigue estos pasos para iniciar el servidor de la API FastAPI:
     Asegúrate de tener instalado `pip` y luego instala las librerías necesarias listadas en el `requirements.txt` (que debe estar en la raíz del proyecto). Puedes copiar el `requirements.txt` a la carpeta `api` o ejecutar el comando desde la raíz:
 
     ```bash
-    pip install -r ../requirements.txt
+    pip install -r requirements.txt
     ```
 
 4.  **Ejecuta la API con Uvicorn:**
@@ -72,7 +72,7 @@ Sigue estos pasos para iniciar la interfaz de usuario Streamlit:
     Si no instalaste las dependencias desde la raíz del proyecto, puedes hacerlo ahora (asegurándote de que `streamlit` esté incluido en tu `requirements.txt`):
 
     ```bash
-    pip install -r ../requirements.txt
+    pip install -r requirements.txt
     ```
 
 4.  **Ejecuta la aplicación Streamlit:**
