@@ -3,7 +3,7 @@ import requests
 import json
 
 API_URL = "http://127.0.0.1:8000"  # Replace with your actual API URL if different
-NUM_EXAMPLES = 5  # Default number of manual input fields
+NUM_EXAMPLES = 10 # Default number of manual input fields
 
 st.title('Detección de Noticias Falsas en Política')
 
